@@ -27,4 +27,4 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (paste your link here)
+- LinkedIn: https://www.linkedin.com/in/maaz-alii/
