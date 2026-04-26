@@ -1,30 +1,54 @@
 # Hi, I'm Maaz 👋
 
-🚀 Aspiring AI Engineer  
-💡 Currently learning Python, Machine Learning & LLMs  
-📈 Building projects daily to grow my skills  
+🚀 AAspiring AI Engineer | 2 Android Apps on Play Store | Learning Python, LLMs & RAG | Open to Internships| CS Student @ NUML, Pakistan
+
+---
+
+## 📱 Published Apps (Google Play Store)
+
+| App | Downloads | Rating | Highlights |
+|-----|-----------|--------|------------|
+| [Prayer Times, Azan & Adhkar](https://play.google.com/store/apps/details?id=com.maazinex.prayer_time_azan_qibla_finder) | 100+ | 3.5 ⭐ | 3 languages (EN/UR/AR), Qibla finder, Daily Adhkar |
+| [GPA & CGPA Calculator](https://play.google.com/store/apps/details?id=com.maazinex.pakistani_gpa_calculator) | Active | 5.0 ⭐ | 50+ Pakistani universities |
+
+### 📸 App Screenshots
+
+**Prayer Times, Azan & Adhkar**
+
+<img src="assets/prayer_1_home.png" width="180"> <img src="assets/prayer_2.png" width="180"> <img src="assets/prayer_3.png" width="180">
+<img src="assets/prayer_4.png" width="180">
+<img src="assets/prayer_5.png" width="180">
+
+**GPA & CGPA Calculator**
+
+<img src="assets/gpa_1.png" width="180"> <img src="assets/gpa_2.png" width="180">
 
 ---
 
 ## 🛠️ Skills
-- Python
-- Basic Machine Learning
-- APIs & CLI Apps
+
+- **AI/ML:** Python, LLMs, RAG, LangChain, HuggingFace *(learning)*
+- **Android:** Published 2 apps on Google Play Store
+- **Python:** 100 Days of Code — Day 2 ✅
+- **Tools:** Git, GitHub, VS Code, Jupyter
 
 ---
 
-## 📌 Current Focus
-- Learning AI Engineering
-- Building real-world projects
-- Exploring RAG & LLM applications
+## 🎯 Current Focus
+
+- 100 Days of Code (Python) — actively building daily
+- LLM Engineering with RAG & Vector Databases
+- Building and shipping AI projects publicly
 
 ---
 
 ## 📂 Projects
-- Tip Calculator (Python CLI)  
-(More coming soon...)
+
+- 🧾 [Tip Calculator](https://github.com/MaaziAli/python-tip-calculator) — Python CLI · Day 2 of 100 Days of Code
+- *(More coming every week)*
 
 ---
 
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/maaz-alii/
+## 🔗 Connect
+
+- LinkedIn: [linkedin.com/in/maaz-alii](https://www.linkedin.com/in/maaz-alii/)
