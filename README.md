@@ -1,6 +1,6 @@
 # Hi, I'm Maaz 👋
 
-🚀 AAspiring AI Engineer | 2 Android Apps on Play Store | Learning Python, LLMs & RAG | Open to Internships| CS Student @ NUML, Pakistan
+🚀 Aspiring AI Engineer | 2 Android Apps on Play Store | Learning Python, LLMs & RAG | Open to Internships| CS Student @ NUML, Pakistan
 
 ---
 
