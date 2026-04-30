@@ -8,7 +8,7 @@
 
 | App | Downloads | Rating | Highlights |
 |-----|-----------|--------|------------|
-| [Prayer Times, Azan & Adhkar](https://play.google.com/store/apps/details?id=com.maazinex.prayer_time_azan_qibla_finder) | 100+ | 3.5 ⭐ | 3 languages (EN/UR/AR), Qibla finder, Daily Adhkar |
+| [Prayer Times, Azan & Adhkar](https://play.google.com/store/apps/details?id=com.maazinex.prayer_time_azan_qibla_finder) | 599+ | 3.5 ⭐ | 3 languages (EN/UR/AR), Qibla finder, Daily Adhkar |
 | [GPA & CGPA Calculator](https://play.google.com/store/apps/details?id=com.maazinex.pakistani_gpa_calculator) | Active | 5.0 ⭐ | 50+ Pakistani universities |
 
 ### 📸 App Screenshots
@@ -21,7 +21,7 @@
 
 **GPA & CGPA Calculator**
 
-<img src="assets/image1.png" width="180"> <img src="assets/image2.png" width="180"><img src="assets/image3.png" width="180"><img src="assets/image4.png" width="180"><img src="assets/image5.png" width="180"> <img src="assets/image6.png" width="180"><img src="assets/image7.png" width="180"><img src="assets/image8.png" width="180">
+<img src="assets/image1.jpg" width="180"> <img src="assets/image2.jpg" width="180"><img src="assets/image3.jpg" width="180"><img src="assets/image4.jpg" width="180"><img src="assets/image5.jpg" width="180"> <img src="assets/image6.jpg" width="180"><img src="assets/image7.jpg" width="180"><img src="assets/image8.jpg" width="180">
 
 ---
 
