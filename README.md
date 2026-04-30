@@ -21,7 +21,7 @@
 
 **GPA & CGPA Calculator**
 
-<img src="assets/gpa_1.png" width="180"> <img src="assets/gpa_2.png" width="180">
+<img src="assets/image1.png" width="180"> <img src="assets/image2.png" width="180"><img src="assets/image3.png" width="180"><img src="assets/image4.png" width="180"><img src="assets/image5.png" width="180"> <img src="assets/image6.png" width="180"><img src="assets/image7.png" width="180"><img src="assets/image8.png" width="180">
 
 ---
 
