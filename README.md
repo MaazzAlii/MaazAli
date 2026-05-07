@@ -8,7 +8,7 @@
 
 | App | Downloads | Rating | Highlights |
 |-----|-----------|--------|------------|
-| [Prayer Times, Azan & Adhkar](https://play.google.com/store/apps/details?id=com.maazinex.prayer_time_azan_qibla_finder) | 599+ | 3.5 ⭐ | 3 languages (EN/UR/AR), Qibla finder, Daily Adhkar |
+| [Prayer Times, Azan & Adhkar](https://play.google.com/store/apps/details?id=com.maazinex.prayer_time_azan_qibla_finder) | 999+ | 3.5 ⭐ | 3 languages (EN/UR/AR), Qibla finder, Daily Adhkar |
 | [GPA & CGPA Calculator](https://play.google.com/store/apps/details?id=com.maazinex.pakistani_gpa_calculator) | Active | 5.0 ⭐ | 50+ Pakistani universities |
 
 ### 📸 App Screenshots
@@ -51,4 +51,4 @@
 
 ## 🔗 Connect
 
-- LinkedIn: [linkedin.com/in/maaz-alii](https://www.linkedin.com/in/maaz-alii/)
+- LinkedIn: [linkedin.com/in/maaz-alii](https://www.linkedin.com/in/maazzalii/)
