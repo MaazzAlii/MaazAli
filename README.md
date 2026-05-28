@@ -55,8 +55,6 @@
 
 ---
 
-## 📊 Building in Public — 100 Days of AI
-
 🔗 [LinkedIn](https://linkedin.com/in/maazzalii) · 
 📧 maazalishahid@gmail.com
 
